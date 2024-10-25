@@ -4232,6 +4232,16 @@
 			]
 		},
 		{
+		    "name": "SublimeClaude",
+		    "details": "https://github.com/mandelbro/SublimeClaude",
+		    "releases": [
+			{
+			    "sublime_text": ">=3000",
+			    "tags": true
+			}
+		    ]
+		},
+		{
 			"name": "Subclim",
 			"details": "https://github.com/JulianEberius/Subclim",
 			"releases": [
